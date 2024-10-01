@@ -1,6 +1,6 @@
 {
   "name": "workers-kv",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Cloudflare Workers KV for Node.js",
   "main": "index.js",
   "files": [],
