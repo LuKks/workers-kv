@@ -1,7 +1,7 @@
 {
   "name": "workers-kv",
   "version": "0.0.1",
-  "description": "Cloudflare Workers KV for Node.js",
+  "description": "Eventual-consistent key-value data storage based on Workers KV",
   "main": "index.js",
   "files": [],
   "scripts": {

@@ -1,12 +1,12 @@
 # workers-kv
 
-Cloudflare Workers KV for Node.js
+Eventual-consistent key-value data storage based on Workers KV
 
 ```
 npm i workers-kv
 ```
 
-A global, low-latency, key-value data storage.
+"A low-latency, high-throughput global data store perfect for configuration data, routing data, A/B testing configurations, and authentication tokens. Workers KV is best suited for read-heavy workloads."
 
 https://developers.cloudflare.com/kv/
 
