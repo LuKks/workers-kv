@@ -1,6 +1,6 @@
 {
   "name": "workers-kv",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Eventual-consistent key-value data storage based on Workers KV",
   "main": "index.js",
   "files": [],
